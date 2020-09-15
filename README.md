@@ -16,18 +16,18 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="PyCharm" width="26px" src="https://dl2.macupdate.com/images/icons256/53507.png" />]
-[<img align="left" alt="IntelliJ" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/intellij-idea-569199.png" />]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="Python" width="26px" src="https://www.iconarchive.com/download/i73027/cornmanthe3rd/plex/Other-python.ico" />](https://github.com/search?q=user%3Anwithan8+language%3APython&type=Repositories&ref=advsearch&l=Python&l=)
 [<img align="left" alt="Javascript" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-23-1174949.png" />](https://github.com/search?q=user%3Anwithan8+language%3AJavaScript&type=Repositories&ref=advsearch&l=JavaScript&l=)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />](https://github.com/search?q=user%3Anwithan8+language%3AHTML&type=Repositories&ref=advsearch&l=HTML&l=)
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />]
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />]
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />
+<img align="left" alt="PyCharm" width="26px" src="https://dl2.macupdate.com/images/icons256/53507.png" />
+<img align="left" alt="IntelliJ" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/intellij-idea-569199.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
 
 <br />
 <br />
