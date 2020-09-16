@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning Groovy and Grails
 - 🐍 I'm a big fan of Python
 
+<br />
+
 ## 📱 ``Let's Chat``:
 
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -12,6 +14,7 @@
 [<img align="left" alt="Nate Harris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Nate Harris | GPG Key" width="22px" src="https://simpleicons.org/icons/gnuprivacyguard.svg" />][pubkey]
 
+<br />
 <br />
 
 ## 🏆 ``My Favorite Languages and Tools``:
