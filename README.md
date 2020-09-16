@@ -6,11 +6,11 @@
 
 ### 📱 Connect with me:
 
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://nateharr.is)
-[<img align="left" alt="nwithan8 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/nwithan8)
-[<img align="left" alt="NateHarris | YouTube" width="22px" src="https://i.pinimg.com/originals/37/17/bd/3717bd3e3e6f2c23a8635eb76c37140c.png" />](https://youtube.com/NateHarris)
-[<img align="left" alt="Nate Harris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/nwithan8)
-[<img align="left" alt="Nate Harris | GPG Key" width="22px" src="https://simpleicons.org/icons/gnuprivacyguard.svg" />](https://nateharr.is/files/Nate_Harris_PGP_key.asc)
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="nwithan8 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="NateHarris | YouTube" width="22px" src="https://i.pinimg.com/originals/37/17/bd/3717bd3e3e6f2c23a8635eb76c37140c.png" />][youtube]
+[<img align="left" alt="Nate Harris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Nate Harris | GPG Key" width="22px" src="https://simpleicons.org/icons/gnuprivacyguard.svg" />][pubkey]
 
 <br />
 
@@ -41,3 +41,10 @@
 <!--END_SECTION:activity-->
 
 ---
+[![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=nwithan8)](https://github.com/nwithan8)
+
+[website]: https://nateharr.is
+[twitter]: https://twitter.com/nwithan8
+[youtube]: https://youtube.com/NateHarris
+[linkedin]: https://linkedin.com/nwithan8
+[pubkey]: https://nateharr.is/files/Nate_Harris_PGP_key.asc
