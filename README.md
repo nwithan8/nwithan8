@@ -1,10 +1,10 @@
-### Hi there, I'm Nate 👋
+## ``Hello world, I'm Nate`` 👋
 
 - 🔭 I’m currently working as a software developer for Force 5, Inc.
 - 🌱 I’m currently learning Groovy and Grails
 - 🐍 I'm a big fan of Python
 
-### 📱 Connect with me:
+## 📱 ``Let's Chat``:
 
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="nwithan8 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -14,7 +14,7 @@
 
 <br />
 
-### Languages and Tools:
+## 🏆 ``My Favorite Languages and Tools``:
 
 [<img align="left" alt="Python" width="26px" src="https://www.iconarchive.com/download/i73027/cornmanthe3rd/plex/Other-python.ico" />](https://github.com/search?q=user%3Anwithan8+language%3APython&type=Repositories&ref=advsearch&l=Python&l=)
 [<img align="left" alt="Javascript" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-23-1174949.png" />](https://github.com/search?q=user%3Anwithan8+language%3AJavaScript&type=Repositories&ref=advsearch&l=JavaScript&l=)
@@ -34,7 +34,7 @@
 
 ---
 
-### :zap: Recent Activity
+## :zap: ``My Recent Activity``:
 
 <!--START_SECTION:activity-->
 
