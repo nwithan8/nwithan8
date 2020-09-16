@@ -1,4 +1,4 @@
-## ``Hello world, I'm Nate`` 👋
+## 👋 ``Hello world, I'm Nate``
 
 - 🔭 I’m currently working as a software developer for Force 5, Inc.
 - 🌱 I’m currently learning Groovy and Grails
