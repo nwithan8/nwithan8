@@ -35,7 +35,6 @@
 <br />
 <br />
 
----
 
 ## :zap: ``My Recent Activity``:
 
@@ -43,7 +42,6 @@
 
 <!--END_SECTION:activity-->
 
----
 [![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=nwithan8&count_private=true&show_icons=true)](https://github.com/nwithan8)
 
 [website]: https://nateharr.is
