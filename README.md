@@ -1,8 +1,8 @@
 ## 👋 ``Hello world, I'm Nate``
 
-- 🔭 I’m currently working as a software developer for Force 5, Inc.
-- 🌱 I’m currently learning Groovy and Grails
-- 🐍 I'm a big fan of Python
+- 🔭 I’m currently working as a software developer for EasyPost.
+- 🌱 I’m currently learning Java and C#
+- 🐍 I'm a big fan of Python API libraries
 
 <br />
 
