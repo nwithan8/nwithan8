@@ -47,5 +47,5 @@
 [website]: https://nateharr.is
 [twitter]: https://twitter.com/nwithan8
 [youtube]: https://youtube.com/NateHarris
-[linkedin]: https://linkedin.com/nwithan8
+[linkedin]: https://www.linkedin.com/in/nwithan8
 [pubkey]: https://nateharr.is/files/Nate_Harris_PGP_key.asc
