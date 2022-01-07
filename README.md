@@ -8,11 +8,12 @@
 
 ## 📱 ``Let's Chat``:
 
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="nwithan8 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="NateHarris | YouTube" width="22px" src="https://i.pinimg.com/originals/37/17/bd/3717bd3e3e6f2c23a8635eb76c37140c.png" />][youtube]
-[<img align="left" alt="Nate Harris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Nate Harris | GPG Key" width="22px" src="https://simpleicons.org/icons/gnuprivacyguard.svg" />][pubkey]
+[<img align="left" alt="Website" width="22px" src="https://www.downloadclipart.net/large/website-png-hd.png" />][website]
+[<img align="left" alt="nwithan8 | Twitter" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />][twitter]
+[<img align="left" alt="NateHarris | YouTube" width="22px" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" />][youtube]
+[<img align="left" alt="nwithan8 | Discord" width="22px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />][discord]
+[<img align="left" alt="Nate Harris | LinkedIn" width="22px" src="https://olc-wordpress-assets.s3.amazonaws.com/uploads/2020/05/linkedin-icon.png" />][linkedin]
+[<img align="left" alt="Nate Harris | GPG Key" width="22px" src="https://www.freeiconspng.com/thumbs/key-icon/key-icon-4.png" />][pubkey]
 
 <br />
 <br />
