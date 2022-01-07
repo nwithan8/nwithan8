@@ -1,8 +1,8 @@
 ## 👋 ``Hello world, I'm Nate``
 
-- 🔭 I’m currently working as a software developer for EasyPost.
-- 🌱 I’m currently learning Java and C#
-- 🐍 I'm a big fan of Python API libraries
+- 🔭 I’m a software developer for EasyPost.
+- 🌱 I’m currently learning Ruby and Go
+- 🐍 I'm enjoy writig API client libraries
 
 <br />
 
