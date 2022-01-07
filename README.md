@@ -19,10 +19,8 @@
 
 ## 🏆 ``My Favorite Languages and Tools``:
 
-[<img align="left" alt="Python" width="26px" src="https://www.iconarchive.com/download/i73027/cornmanthe3rd/plex/Other-python.ico" />](https://github.com/search?q=user%3Anwithan8+language%3APython&type=Repositories&ref=advsearch&l=Python&l=)
-[<img align="left" alt="Javascript" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-23-1174949.png" />](https://github.com/search?q=user%3Anwithan8+language%3AJavaScript&type=Repositories&ref=advsearch&l=JavaScript&l=)
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />](https://github.com/search?q=user%3Anwithan8+language%3AHTML&type=Repositories&ref=advsearch&l=HTML&l=)
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
+[<img align="left" alt="Python" width="26px" src="https://www.iconarchive.com/download/i73027/cornmanthe3rd/plex/Other-python.ico" />](https://github.com/search?q=user%3Anwithan8+language%3APython&type=Repositories)
+[<img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />](https://github.com/search?q=user%3Anwithan8+language%3AJava&type=Repositories)
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
@@ -30,7 +28,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />
 <img align="left" alt="PyCharm" width="26px" src="https://dl2.macupdate.com/images/icons256/53507.png" />
 <img align="left" alt="IntelliJ" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/intellij-idea-569199.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Rider" width="26px" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" />
 
 <br />
 <br />
@@ -48,4 +46,5 @@
 [twitter]: https://twitter.com/nwithan8
 [youtube]: https://youtube.com/NateHarris
 [linkedin]: https://www.linkedin.com/in/nwithan8
+[discord]: https://discord.com/users/233771307555094528
 [pubkey]: https://nateharr.is/files/Nate_Harris_PGP_key.asc
