@@ -41,7 +41,7 @@
 
 <!--END_SECTION:activity-->
 
-[![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=nwithan8&count_private=true&show_icons=true)](https://github.com/nwithan8)
+[![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=nwithan8&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/nwithan8)
 
 [website]: https://nateharr.is
 [twitter]: https://twitter.com/nwithan8
