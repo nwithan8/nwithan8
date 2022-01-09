@@ -41,7 +41,8 @@
 
 <!--END_SECTION:activity-->
 
-[![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=nwithan8&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/nwithan8)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nwithan8&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/nwithan8?tab=repositories)
+[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=nwithan8&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=8&hide=Hack,Makefile)](https://github.com/nwithan8?tab=repositories)
 
 [website]: https://nateharr.is
 [twitter]: https://twitter.com/nwithan8
