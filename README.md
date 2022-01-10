@@ -1,10 +1,8 @@
-## 👋 ``Hello world, I'm Nate``
+![Header](https://raw.githubusercontent.com/nwithan8/nwithan8/master/header.png)
 
-- 🔭 I’m a software developer for EasyPost.
-- 🌱 I’m currently learning Ruby and Go
-- 🐍 I'm enjoy writig API client libraries
-
-<br />
+<h2 align="center">
+  I’m a software engineer at <a href="http://easypost.com/">EasyPost</a> who enjoys writing <a href="https://github.com/nwithan8?tab=repositories&q=api&type=&language=&sort=">API client libraries</a>.
+</h2>
 
 ## 📱 ``Let's Chat``:
 
