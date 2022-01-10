@@ -2,11 +2,8 @@
 
 <h2 align="center">
   I’m a software engineer at <a href="http://easypost.com/">EasyPost</a> who enjoys writing <a href="https://github.com/nwithan8?tab=repositories&q=api&type=&language=&sort=">API client libraries</a>.
-</h2>
-
-<p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=122904505&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false" href="https://spotify-github-profile.vercel.app/api/view?uid=122904505&redirect=true" />
-</p>
+</h2>
 
 ## 📱 ``Let's Chat``:
 
