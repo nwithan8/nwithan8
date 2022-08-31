@@ -5,7 +5,7 @@
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=122904505&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false" href="https://spotify-github-profile.vercel.app/api/view?uid=122904505&redirect=true" />
 </h2>
 
-## 📱 ``Let's Chat``:
+## 📱 Let's Chat
 
 [<img align="left" alt="Website" width="22px" src="https://www.downloadclipart.net/large/website-png-hd.png" />][website]
 [<img align="left" alt="nwithan8 | Twitter" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />][twitter]
@@ -17,7 +17,7 @@
 <br />
 <br />
 
-## 🏆 ``My Favorite Languages and Tools``:
+## 🏆 My Favorite Languages and Tools
 
 [<img align="left" alt="Python" width="26px" src="https://www.iconarchive.com/download/i73027/cornmanthe3rd/plex/Other-python.ico" />](https://github.com/search?q=user%3Anwithan8+language%3APython&type=Repositories)
 [<img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />](https://github.com/search?q=user%3Anwithan8+language%3AJava&type=Repositories)
@@ -32,6 +32,8 @@
 
 <br />
 <br />
+
+## 📈 Metrics
 
 
 ![Metrics](https://metrics.lecoq.io/nwithan8?template=classic&repositories.affiliations=owner%2C%20collaborator%2C%20organization_member&isocalendar=1&languages=1&stackoverflow=1&music=1&habits=1&activity=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=true&habits.languages.limit=8&habits.languages.threshold=0%25&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&stackoverflow=false&stackoverflow.user=13343799&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&music=false&music.provider=spotify&music.user=nwithan8&music.mode=recent&music.limit=4&music.played.at=true&music.time.range=short&music.top.type=tracks&config.timezone=America%2FDenver)
