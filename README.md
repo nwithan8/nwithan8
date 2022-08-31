@@ -35,8 +35,8 @@
 
 ## 📈 Metrics
 
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
 
-<img src="https://metrics.lecoq.io/nwithan8?template=classic&repositories.affiliations=owner%2C%20collaborator%2C%20organization_member&isocalendar=1&languages=1&stackoverflow=1&music=1&habits=1&activity=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=true&habits.languages.limit=8&habits.languages.threshold=0%25&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&stackoverflow=false&stackoverflow.user=13343799&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&music=false&music.provider=spotify&music.user=nwithan8&music.mode=recent&music.limit=4&music.played.at=true&music.time.range=short&music.top.type=tracks&config.timezone=America%2FDenver" alt="Metrics" width="100%">
 
 [website]: https://nateharr.is
 [twitter]: https://twitter.com/nwithan8
