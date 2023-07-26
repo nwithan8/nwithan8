@@ -60,7 +60,7 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-          plugin_music: yes
+          plugin_music: no
           plugin_music_limit: 4
           plugin_music_mode: recent
           plugin_music_played_at: yes
@@ -68,10 +68,13 @@ jobs:
           plugin_music_time_range: short
           plugin_music_top_type: tracks
           plugin_music_user: nwithan8
-          plugin_stackoverflow: yes
+          plugin_stackoverflow: no
           plugin_stackoverflow_limit: 2
           plugin_stackoverflow_lines: 4
           plugin_stackoverflow_lines_snippet: 2
           plugin_stackoverflow_sections: answers-top, questions-recent
           plugin_stackoverflow_user: 13343799
           repositories_affiliations: owner, collaborator, organization_member
+          plugin_rss: yes
+          plugin_rss_source: https://blog.nateharr.is/feed.xml
+          plugin_rss_limit: 4
