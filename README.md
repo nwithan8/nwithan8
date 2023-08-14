@@ -9,9 +9,11 @@
 ## 📱 Let's Chat
 
 [<img align="left" alt="Website" width="22px" src="https://www.downloadclipart.net/large/website-png-hd.png" />][website]
+[<img align="left" alt="Blog" width="22px" src="https://www.svgrepo.com/show/5182/pencil.svg" />][blog]
 [<img align="left" alt="nwithan8 | Twitter" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />][twitter]
 [<img align="left" alt="NateHarris | YouTube" width="22px" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" />][youtube]
 [<img align="left" alt="nwithan8 | Discord" width="22px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />][discord]
+[<img align="left" alt="nwithan8 | Mastodon" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" rel="me" />][mastodon]
 [<img align="left" alt="Nate Harris | LinkedIn" width="22px" src="https://olc-wordpress-assets.s3.amazonaws.com/uploads/2020/05/linkedin-icon.png" />][linkedin]
 [<img align="left" alt="Nate Harris | GPG Key" width="22px" src="https://www.freeiconspng.com/thumbs/key-icon/key-icon-4.png" />][pubkey]
 
@@ -40,8 +42,10 @@
 
 
 [website]: https://nateharr.is
+[blog]: https://blog.nateharr.is
 [twitter]: https://twitter.com/nwithan8
 [youtube]: https://youtube.com/NateHarris
 [linkedin]: https://www.linkedin.com/in/nwithan8
 [discord]: https://discord.com/users/233771307555094528
+[mastodon]: https://mas.to/@nwithan8
 [pubkey]: https://nateharr.is/files/Nate_Harris_PGP_key.asc
