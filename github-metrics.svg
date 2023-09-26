@@ -1449,7 +1449,7 @@ Update template to reflect repository move, and linking directly to mealie icon 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Sept 2023, 04:01:52 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Sept 2023, 05:02:07 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
