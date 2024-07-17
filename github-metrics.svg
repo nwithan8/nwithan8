@@ -1436,7 +1436,7 @@ If a host string is passed in, but the BaseAddress of the HTTP_CLIENT is already
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jul 2024, 06:01:54 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Jul 2024, 07:03:41 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
