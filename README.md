@@ -1,7 +1,7 @@
 ![Header](https://raw.githubusercontent.com/nwithan8/nwithan8/master/header.png)
 
 <h2 align="center">
-  I’m a software engineer at <a href="http://easypost.com/">EasyPost</a> who enjoys writing <a href="https://github.com/nwithan8?tab=repositories&q=api&type=&language=&sort=">API client libraries</a>.
+  I’m a software engineer who enjoys writing <a href="https://github.com/nwithan8?tab=repositories&q=api&type=&language=&sort=">API client libraries</a>.
   <br>
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=122904505&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false" href="https://spotify-github-profile.vercel.app/api/view?uid=122904505&redirect=true" />
 </h2>
