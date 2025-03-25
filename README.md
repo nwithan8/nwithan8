@@ -42,7 +42,7 @@
 
 [website]: https://nateharr.is
 [blog]: https://blog.nateharr.is
-[youtube]: https://youtube.com/NateHarris
+[youtube]: https://youtube.com/c/TechySpeaking
 [linkedin]: https://www.linkedin.com/in/nwithan8
 [discord]: https://discord.com/users/233771307555094528
 [mastodon]: https://mas.to/@nwithan8
