@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1206" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1556" class="">
     <defs>
         <style/>
     </defs>
@@ -88,7 +88,7 @@
                                 <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                 <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                             </svg>
-                            113 Issues opened
+                            114 Issues opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -229,12 +229,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 76 commits)</small>
+                    <small class="h-details">(computed from last 75 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 38.3 characters per line of code written</li>
+                        <li>Has approximately 38.4 characters per line of code written</li>
                         <li>Mostly pushes code around 21:00</li>
                         <li>Mostly active on Friday</li>
                     </ul>
@@ -1331,6 +1331,131 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#179 [NEW TEMPLATE] - Key Connector</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">nwithan8/unraid_templates</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 27 commits in
+                                        <span class="repo">nwithan8/FCFB-Arceus</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">drive_summary_graphic</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#bd445b8</div>
+                                        <div class="message">notify commishes of signups</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#848c4de</div>
+                                        <div class="message">notify commishes of signups</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#db787f0</div>
+                                        <div class="message">Merge pull request #173 from akick31/bugfix/end-of-quarter-play-time
+
+Bugfix: fix end of quarter play time</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bac67ed</div>
+                                        <div class="message">Merge branch 'bugfix/end-of-quarter-play-time' of github.com:akick31/FCFB-Arceus into bugfix/end-of-quarter-play-time</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f5606ec</div>
+                                        <div class="message">run ktlint</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b34824d</div>
+                                        <div class="message">Merge branch 'main' into bugfix/end-of-quarter-play-time</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#53a6e97</div>
+                                        <div class="message">fix end of quarter play time</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f5e92e7</div>
+                                        <div class="message">Merge pull request #172 from akick31/bugfix/fix-end-of-game-stats-part-2
+
+Fix: don't regenerate stats at end of game</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#feaf7a0</div>
+                                        <div class="message">run ktlint</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1f21ac4</div>
+                                        <div class="message">don't regenerate stats at end of game</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5d26619</div>
+                                        <div class="message">Merge pull request #171 from akick31/bugfix/fix-end-of-game-stats
+
+Bugfix: fix calculating stats at end of game</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#662fec9</div>
+                                        <div class="message">update cache</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#892a4aa</div>
+                                        <div class="message">fix calculating stats at end of game</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b2649ac</div>
+                                        <div class="message">Merge pull request #170 from akick31/feature/fix-end-game
+
+Bugfix: fix end of game</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#482ac38</div>
+                                        <div class="message">fix end of game</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3c91d38</div>
+                                        <div class="message">Merge pull request #169 from akick31/feature/fix-end-ot
+
+Feature: fix the end of ot and refactor service</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b03d775</div>
+                                        <div class="message">fix the end of ot and refactor service</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#14bb3c6</div>
+                                        <div class="message">Merge pull request #168 from akick31/feature/add-game-stats-command
+
+Feature: add endpoint to generate game stats for games beyond game id</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2be344a</div>
+                                        <div class="message">remove typo</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#287781f</div>
+                                        <div class="message">add endpoint to generate game stats for games beyond game id</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -1380,42 +1505,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">ufal/whisper_streaming</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#125 Feature Request: Pre-built Docker image</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">QuentinFuxa/WhisperLiveKit</span></div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 May 2025, 01:01:34 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 May 2025, 02:01:56 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
