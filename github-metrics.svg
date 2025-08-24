@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1406" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1407" class="">
     <defs>
         <style/>
     </defs>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            1571 issue comments
+                            1572 issue comments
                         </div>
                     </section>
                     <section>
@@ -1335,6 +1335,27 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
+                                        <span class="issue">#379 Cron not parsed correctly?</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by nwithan8 in <span class="repo">mcuadros/ofelia</span></div>
+                                    <div class="comment">
+                                        Thanks. I am using the
+                                        <code>latest</code>
+                                        Docker tag, which I assume is non-beta 0.3.x, thanks for the clarification!
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
                                         <span class="issue">#2 Post-Credit Scene Collection</span>
                                     </div>
                                 </div>
@@ -1407,32 +1428,12 @@ Celine Song, Dakota Johnson, Pedro Pascal, Chris Evans, Zoe Winters, Marin Irela
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#2 Post-Credit Scene Collection</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by nwithan8 in <span class="repo">nwithan8/blog</span></div>
-                                    <div class="comment">Superman
-2025
-Yes.
-James Gunn, DC, David Corenswet, Rachel Brosnahan, Nicholas Hoult, Edi Gathegi, Anthony Carrigan, Nathan Fillion, Isabela Merced, Skyler Gisondo, Sara Sampaio, María Gabriela de Faría, Wendell Pierce, Alan Tudyk, Pruitt Taylor Vince, Neva Howell, Metropolis, Smallville, Clark Kent, Jimmy Olsen, Lois Lane, Lex Luther, Eve, Perry White, Mr. Terrific, Green Lantern, Guy Gardner, Hawkgirl, reboot, origin, Henry Cavill, Zack Snyder, Israel, dictator, politics, genocide, invasion, clone, Engineer, black hole, pocket dimension, Krypto, dog, Supergirl</div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Aug 2025, 14:01:29 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Aug 2025, 15:01:28 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
