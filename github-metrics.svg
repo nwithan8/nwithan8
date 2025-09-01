@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1539" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1246" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.post{align-items:flex-start}.post .infos{display:flex;margin-bottom:4px}.activity .field,.post .infos .title{overflow:hidden;text-overflow:ellipsis}.post .infos .title{font-size:14px;white-space:normal;max-height:38px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}.rss{align-items:flex-start}.rss .infos{margin-bottom:3px}.rss .infos .date{font-size:10px;color:#666}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.post{align-items:flex-start}.post .infos{display:flex;margin-bottom:4px}.activity .field,.post .infos .title{overflow:hidden;text-overflow:ellipsis}.post .infos .title{font-size:14px;white-space:normal;max-height:38px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}.rss{align-items:flex-start}.rss .infos{margin-bottom:3px}.rss .infos .date{font-size:10px;color:#666}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -1338,6 +1338,28 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#246 [FEATURE] - Seasons in Library Statistics</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by glaivelab in <span class="repo">nwithan8/tauticord</span></div>
+                                    <div class="comment">Seasons always confused me as a metric, in terms of how you can't really derive anything valuable from it.
+Series - How many unique TV shows do I have?
+Episodes - How many individual TV show video files do I have?
+Seasons - I have seven seasons. Is that just the first season of Show A and all six seasons of Show B, or maybe three non-consecutive seasons of Show A and only four of the six of Show B?
+The ONLY way I see it being valuable is series / seasons gives you an average season count per series (do I have a bunch of single-season mini-series, or a bunch of 50-year-running soap operas?), or the same with episodes / seasons to get average season length. But again, this is all an average, and one 50+ season collection of 60 Minutes or 30+ season collection of The Simpsons offsets a bunch of streaming miniseries or two-and-done Netflix series, all to get this vague average that doesn't really signify anything.
+Alls to say, it's easy to implement and I probably will, but in my mind, it's completely useless.</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -1403,119 +1425,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 10000 commits in
-                                        <span class="repo">nwithan8/home-assistant-core</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#aa29415</div>
-                                        <div class="message">Fix ContextVar deprecation warning in homeassistant_hardware integration (#149687)
-
-Co-authored-by: copilot-swe-agent[bot] &lt;198982749+Copilot@users.noreply.github.com&gt;
-Co-authored-by: joostlek &lt;7083755+joostlek@users.noreply.github.com&gt;
-Co-authored-by: mib1185 &lt;35783820+mib1185@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#29daf13</div>
-                                        <div class="message">Fix `KeyError` in friends coordinator (#149684)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3da3cf7</div>
-                                        <div class="message">Bump ZHA to 0.0.64 (#149683)
-
-Co-authored-by: TheJulianJES &lt;TheJulianJES@users.noreply.github.com&gt;
-Co-authored-by: abmantis &lt;amfcalt@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d8c93d5</div>
-                                        <div class="message">Bump intents to 2025.7.30 (#149678)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0799ee9</div>
-                                        <div class="message">Fix translation string reference for MQTT climate subentry option (#149673)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bbc1466</div>
-                                        <div class="message">Update rpds-py to 0.26.0 (#149753)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#21a9799</div>
-                                        <div class="message">Update frontend to 20250731.0 (#149757)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f7d54b4</div>
-                                        <div class="message">Improve test of FlowHandler.add_suggested_values_to_schema (#149759)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6ad1b8d</div>
-                                        <div class="message">Fix kitchen_sink option flow (#149760)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5f6b121</div>
-                                        <div class="message">Remove data flow step_id deprecation note (#149714)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#58dc6a9</div>
-                                        <div class="message">Bump home-assistant/wheels from 2025.03.0 to 2025.07.0 (#149741)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#59d8df1</div>
-                                        <div class="message">Nitpick default translations for template integration (#149740)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#04fb86b</div>
-                                        <div class="message">Fix unique_id in config validation for legacy weather platform (#149742)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3d744f0</div>
-                                        <div class="message">Make _EventDeviceRegistryUpdatedData_Remove JSON serializable (#149734)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f7c8cdb</div>
-                                        <div class="message">Bump aioesphomeapi to 37.2.0 (#149732)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3952544</div>
-                                        <div class="message">Fix ContextVar deprecation warning in homeassistant_hardware integration (#149687)
-
-Co-authored-by: copilot-swe-agent[bot] &lt;198982749+Copilot@users.noreply.github.com&gt;
-Co-authored-by: joostlek &lt;7083755+joostlek@users.noreply.github.com&gt;
-Co-authored-by: mib1185 &lt;35783820+mib1185@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#42101dd</div>
-                                        <div class="message">Remove result from FlowResult (#149202)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f7eacaa</div>
-                                        <div class="message">Bump xiaomi-ble to 1.2.0 (#149711)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ad0db5c</div>
-                                        <div class="message">Update growattServer to version 1.7.1 (#149716)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#63216b7</div>
-                                        <div class="message">Bump aioesphomeapi to 37.1.6 (#149715)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Aug 2025, 21:26:04 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Aug 2025, 22:07:28 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
