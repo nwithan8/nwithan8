@@ -1414,7 +1414,7 @@ Update template to match changes made to the DockerHub package</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Sept 2025, 12:01:58 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Sept 2025, 13:01:36 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
