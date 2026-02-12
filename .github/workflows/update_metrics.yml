@@ -24,18 +24,22 @@ jobs:
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Options
+          # Summary
           user: nwithan8
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Denver
-          plugin_activity: yes
+
+          # Recent Activity
+          plugin_activity: no
           plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_visibility: public
-          plugin_habits: yes
+
+          # Coding Habits
+          plugin_habits: no
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
           plugin_habits_facts: yes
@@ -43,9 +47,13 @@ jobs:
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
           plugin_habits_trim: yes
+
+          # Contributions Calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          plugin_languages: yes
+
+          # Languages
+          plugin_languages: no
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
@@ -56,10 +64,14 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_lines: yes
+
+          # Lines
+          plugin_lines: no
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
+
+          # Music
           plugin_music: no
           plugin_music_limit: 4
           plugin_music_mode: recent
@@ -68,6 +80,8 @@ jobs:
           plugin_music_time_range: short
           plugin_music_top_type: tracks
           plugin_music_user: nwithan8
+
+          # StackOverflow
           plugin_stackoverflow: no
           plugin_stackoverflow_limit: 2
           plugin_stackoverflow_lines: 4
@@ -75,6 +89,8 @@ jobs:
           plugin_stackoverflow_sections: answers-top, questions-recent
           plugin_stackoverflow_user: 13343799
           repositories_affiliations: owner, collaborator, organization_member
-          plugin_rss: yes
+
+          # Blog
+          plugin_rss: no
           plugin_rss_source: https://blog.nateharr.is/feed.xml
           plugin_rss_limit: 4
