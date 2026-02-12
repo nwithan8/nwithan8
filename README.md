@@ -2,18 +2,13 @@
 
 <h2 align="center">
   I’m a software engineer who enjoys writing <a href="https://github.com/nwithan8?tab=repositories&q=api&type=&language=&sort=">API client libraries</a>.
-  <br>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=122904505&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false" href="https://spotify-github-profile.vercel.app/api/view?uid=122904505&redirect=true" />
 </h2>
 
 ## 📱 Let's Chat
 
-[<img align="left" alt="Website" width="22px" src="https://www.downloadclipart.net/large/website-png-hd.png" />][website]
+[<img align="left" alt="Website" width="22px" src="https://api.iconify.design/gis:globe-o.svg" />][website]
 [<img align="left" alt="Blog" width="22px" src="https://www.svgrepo.com/show/5182/pencil.svg" />][blog]
-[<img align="left" alt="NateHarris | YouTube" width="22px" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" />][youtube]
-[<img align="left" alt="nwithan8 | Discord" width="22px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />][discord]
 [<img align="left" alt="nwithan8 | Mastodon" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" rel="me" />][mastodon]
-[<img align="left" alt="Nate Harris | LinkedIn" width="22px" src="https://olc-wordpress-assets.s3.amazonaws.com/uploads/2020/05/linkedin-icon.png" />][linkedin]
 [<img align="left" alt="Nate Harris | GPG Key" width="22px" src="https://www.freeiconspng.com/thumbs/key-icon/key-icon-4.png" />][pubkey]
 
 <br />
@@ -24,7 +19,7 @@
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png" />](https://github.com/search?q=user%3Anwithan8+language%3APython&type=Repositories)
 [<img align="left" alt=".NET" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/456px-Microsoft_.NET_logo.svg.png" />](https://github.com/search?q=user%3Anwithan8+language%3AC%23&type=repositories)
 [<img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />](https://github.com/search?q=user%3Anwithan8+language%3AJava&type=Repositories)
-[<img align="left" alt="Unraid" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Unraid_logo.svg/512px-Unraid_logo.svg.png" />](https://github.com/nwithan8/unraid_templates)
+[<img align="left" alt="Unraid" width="26px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/unraid.svg" />](https://github.com/nwithan8/unraid_templates)
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
@@ -42,8 +37,5 @@
 
 [website]: https://nateharr.is
 [blog]: https://blog.nateharr.is
-[youtube]: https://youtube.com/c/TechySpeaking
-[linkedin]: https://www.linkedin.com/in/nwithan8
-[discord]: https://discord.com/users/233771307555094528
 [mastodon]: https://mas.to/@nwithan8
 [pubkey]: https://nateharr.is/files/Nate_Harris_PGP_key.asc
